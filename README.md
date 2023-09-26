@@ -4,4 +4,3 @@
 <br />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaeil-lee&label=%E3%83%A4%E3%83%83%E3%83%9B%E3%83%BC&color=764ee4&style=plastic" alt="jaeil-lee" /> </p>
