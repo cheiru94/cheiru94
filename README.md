@@ -7,7 +7,7 @@
   </div>
   
 <p align="center">
-<img src="https://github.com/cheiru94/cheiru94/assets/146077826/6b5df34f-941a-4522-9dca-d1019dc67a75"  width="1000px" height="500"> 
+<img src="https://github.com/cheiru94/cheiru94/assets/146077826/6b5df34f-941a-4522-9dca-d1019dc67a75"  width="1000px" height="650"> 
 </p>
 
   
