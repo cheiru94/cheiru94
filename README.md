@@ -1,4 +1,4 @@
-![スクリーンショット 2023-12-03 22 56 59](https://github.com/cheiru94/cheiru94/assets/146077826/14de104e-6c79-4e22-918f-2cd6ad2971bb)<div>
+
   
   <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuji+Syuku&size=170&duration=1000&pause=500&color=34A8FF&background=FFFFFF00&center=true&vCenter=true&width=500&height=190&lines=%E4%B8%80%E7%95%AA" alt="Typing SVG" /></a>
